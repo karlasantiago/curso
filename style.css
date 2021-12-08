@@ -1,0 +1,17 @@
+body{
+    background-color: #CCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.box--login {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+}
+.logo{
+    width: 100%;
+    max-width: 150px;
+}
